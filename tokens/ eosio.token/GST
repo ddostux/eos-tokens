@@ -1,0 +1,9 @@
+{
+  "name": "GoldStone Token",
+  "account": "goldston.e",
+  "symbol": "GST",
+  "precision": 4,
+  "desc": "GoldStone is a decentralized multi-blockchain digital asset wallet. Support Bitcoin, Ethereum, EOS, Ethereum Classic, Bitcoin Cash and Litecoin, and support ERC20 Token and EOS Token. We believe that the blockchain technology can be widely used in various fields. Its unique traceability and trust mechanism will greatly enhance the efficiency of production collaboration in institutions and the world. At the same time, we also believe that as a convenient and secure digital cryptocurrency wallet, it is not only manage user's property, but also work as the link between the individual and the blockchain. For this reason, we will tirelessly improve and polish our products. GST will be used for user incentives and funding for high quality Dapps development.",
+  "website": "https://www.goldstone.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/goldston.e/GST.png"
+}
